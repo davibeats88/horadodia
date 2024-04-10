@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(238, 191, 33);
+    margin: 0px;
+    padding: 0px;
+}
+#horario {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+img {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    padding: 15px;
+    max-width: 100%;
+}
+#img {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 90%;
+    margin: auto;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.307);
+}
+div {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+}
+article {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
